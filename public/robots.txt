@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mangai.io
+
+# Sitemaps
+Sitemap: https://mangai.io/sitemap.xml
